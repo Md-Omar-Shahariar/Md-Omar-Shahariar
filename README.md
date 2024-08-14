@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Md-Omar-Shahariar&label=Profile%20views&color=0e75b6&style=social" alt="Md-Omar-Shahariar" /> 
 </p>
 
-<h1 align="center"> Hi 👋, I'm Md. Salman Hossan Prottoy </h1>
+<h1 align="center"> Hi 👋, I'm Md. Omar Shahariar </h1>
 <p>
   A lifelong learner, currently fascinated by machine learning, artificial intelligence, and quantum computing. I am not confined to a single branch and believe that anything new is never too complex to comprehend.
 </p>
