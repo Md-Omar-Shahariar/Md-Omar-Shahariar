@@ -41,7 +41,7 @@
     
 ## _Waka Time Stats:_ ⚡
     
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Md-Omar-Shahariar&layout=compact&langs_count=10&locale=en" alt="Md-Omar-Shahariar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=omar_shahariar&layout=compact&langs_count=10&locale=en" alt="Md-Omar-Shahariar" /></p>
 
 ## _Contributions:_
  
