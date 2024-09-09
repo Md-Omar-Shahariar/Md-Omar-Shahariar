@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/md-omar-shahariar-6045a6146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman-prottoy" height="30" width="40" /></a>
-<a href="https://fb.com/omar.shahariar.afrid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salman.prottoy1" height="30" width="40" /></a>
+<a href="[https://fb.com/omar.shahariar.afrid](https://www.facebook.com/omarshahariar)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salman.prottoy1" height="30" width="40" /></a>
 <a href="https://instagram.com/omarshahariar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salman_prottoy" height="30" width="40" /></a>
 </p>
 
